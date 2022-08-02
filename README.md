@@ -1,9 +1,8 @@
 <div align='center'>
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20MinJu!%20&fontAlign=50&fontAlignY=70&fontSize=60&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=KIM%20MIN%20JU!%20&fontAlign=50&fontAlignY=70&fontSize=60&fontColor=fff)
 
-<br>
 
 <div align='center'><h1 style='border-bottom:none; '> My Info 😃</h1>
 
