@@ -12,9 +12,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmagracarta&count_bg=%23032F77&title_bg=%23008ECA&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/magracarta)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magracarta&border_color=141321&show_icons=true&theme=radical) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magracarta&border_color=141321&bg_color=141321&title_color=fb418b&text_color=a8fdf6&langs_count=8)](https://github.com/magracarta/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magracarta&border_color=141321&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magracarta&border_color=141321&bg_color=141321&title_color=fb418b&text_color=a8fdf6&langs_count=8)](https://github.com/magracarta/github-readme-stats)
 
 
 
