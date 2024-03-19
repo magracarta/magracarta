@@ -25,6 +25,10 @@
 
 <br>
 
+<br><br>
+
+## 🛠 BACK END STACK 🛠
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 
 
 <br><br><br>
@@ -32,9 +36,7 @@
 ## ✨ TOOLS ✨
 
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">    
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=Shopify&logoColor=white">
-
-
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=Shopify&logoColor=white"> <img src="https://img.shields.io/badge/intellijidea-999?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 
 
 
