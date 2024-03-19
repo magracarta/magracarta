@@ -45,5 +45,4 @@
 </div>
   <a href='https://startling-elf-dae16f.netlify.app/'>최신 포트폴리오</a>
   <br>
-  <a href='/'>퍼블리셔 3년 경력 보러가기 😃 - 준비중 </a>
 
