@@ -6,7 +6,6 @@
 
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmagracarta?color=purple&label=hits&size=small" alt="hits" /></a>
 
-
 <br>
 
 ## 🛠 FRONT END STACK 🛠
